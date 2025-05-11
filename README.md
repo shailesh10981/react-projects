@@ -5,10 +5,9 @@ Welcome to my collection of React projects! Each project is located in its own f
 ## 📁 Projects List
 
 ### 1. [Mood App](https://github.com/shailesh10981/react-projects/tree/main/mood-app)
+
 - **Description**: A simple app that displays a greeting based on the time of day (Morning, Afternoon, or Evening).
-- **Technologies**: React, JSX, Tailwind CSS
-
-
+- **Technologies**: React, JSX, Bootstrap CSS
 
 ---
 
@@ -18,3 +17,4 @@ Welcome to my collection of React projects! Each project is located in its own f
 
    ```bash
    git clone https://github.com/shailesh10981/react-projects.git
+   ```
