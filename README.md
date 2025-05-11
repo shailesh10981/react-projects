@@ -9,7 +9,7 @@ Welcome to my collection of React projects! Each project is located in its own f
 - **Description**: A simple app that displays a greeting based on the time of day (Morning, Afternoon, or Evening).
 - **Technologies**: React, JSX, Bootstrap CSS
 
-# 👤 Profile Card Component (React) (https://github.com/shailesh10981/react-projects/tree/main/profile-card-component)
+### 2. [Profile Card Component](https://github.com/shailesh10981/react-projects/tree/main/profile-card-component)
 
 A simple and reusable **React component** that displays a list of user profiles using Bootstrap for styling.
 
