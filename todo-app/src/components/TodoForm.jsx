@@ -1,7 +1,8 @@
-const TodoForm = ({ formData, handleChange, handleSubmit }) => {
+const TodoForm = ({ formData, handleChange, handleSubmit, btnText }) => {
   return (
     <div className="form-pading">
       <h2>Todo Form</h2>
+
       <form onSubmit={handleSubmit}>
         <div className="row align-items-end g-2">
           <div className="col-md-5">
@@ -26,7 +27,7 @@ const TodoForm = ({ formData, handleChange, handleSubmit }) => {
           </div>
           <div className="col-md-2">
             <button type="submit" className="btn btn-primary w-100">
-              Submit
+              {btnText}
             </button>
           </div>
         </div>

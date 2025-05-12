@@ -1,5 +1,5 @@
 const NavBar = ({ activeTab = "counter", setActiveTab }) => {
-  console.log(activeTab);
+  // console.log(activeTab);
   return (
     <ul className="nav nav-underline mb-4">
       <li className="nav-item">
